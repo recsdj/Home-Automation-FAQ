@@ -1,6 +1,6 @@
-# Home-Automation-FAQ
+# Home Automation FAQ
 
-Things I wish I knew before diving into Home Automation
+Things I wish I knew before diving into HomeKit Automation
 
 1. Early accept necessity of hubs / gateways. Most devices on the market require them to function properly. This means if you have a large house with solid walls, each room would require a hub ($10-50 depending on brand), as low-energy protocols such as BLE or Zigbee do not penetrate walls as good as Wi-Fi (which you should not be using anyway, see #3).
 
