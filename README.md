@@ -10,7 +10,7 @@
 
 4. If using Homekit (which is very well integrated, designed and thought thru despite initial UI confusion) you __must__ install and get used to Homebridge as early as possible. Steep, but short learning curve will save you lots of trouble down the way. This means you have to get either Raspberry or HOOBS or ATHOM device, better with Zigbee and Bluetooth modules attached.
 
-5. "Works with HomeKit" label means almost nothing at this point. Very few accessories are trouble-free despite having HomeKit logo on them. Use Homebridge for everything and before buying something new always check if there's a plugin for your device, not just particular brand -- the particular device you have in mind! Otherwise you'll end up with a crazy zoo of Chinese re-skinned "smart apps", each of them requiring a separate account, "calling home" all the time etc.
+5. "Works with HomeKit" label means almost nothing at this point. Very few accessories are trouble-free despite having a HomeKit logo on them. Use Homebridge for everything and before buying something new always check if there's a plugin for your device, not just particular brand -- the particular device you have in mind! Otherwise you'll end up with a crazy zoo of Chinese re-skinned "smart apps", each of them requiring a separate account, "calling home" all the time etc.
 
 6. Homebridge being community driven is also far from perfect, so have your expectations in check, but at least it gives you very good degree of control. Principle advice: enable debug logging and never turn it off. It will save lots of time trying to figure out why something does not work despite lack of error messages. 
 
