@@ -18,7 +18,7 @@ I was so frustrated after the initial week of automating my home that decided to
 
 7. Forget about using YouTube for research prior buying new gadgets, as almost nobody there talks about real problems you'll face with your bright new colored bulb that drops off the network for now reason and requires 15 minutes to be readded back. Extensively search Reddit and Github to estimate amount of headache that comes with each device. This is true about each and every brand out there even for seemignly easiest devices such as switches, sensors or lamps. The problems stem from Chinese origin of most of the software and hardware: full of bugs that will never be fixed, terrible UI/UX and non-existent English supprt. Best known brands such as Phillips or IKEA are more reliable, but they have limited range of products, so at some point you'd have to swallow the pill and resort to AliExpress. 
 
-99. Remember to ask yourself "Should I do it?" instead of "Can I do it?" Yes, you __probably__ can control your TV from your phone, but do you really need it if there's a purposefully designed remote nearby that works reliably 99.9% of the time?
+99. Remember to ask yourself "Should I do it?" instead of "Can I do it?" Yes, you __probably__ can control your TV from your phone, but do you really need it if there's a purposefully designed remote nearby that requires 0 setup and maintenance and works reliably 99.9% of the time?
 
 ![You were so preoccupied with whether or not you could that you didn't stop to think if you should.](https://wrnr.com/assets/images/Bobby%20Blogz/2019/march/you-were-so-preoccupied-with-whether-or-not-you-could-you-didnt-stop-to-think-if-you-should.jpg)
 
